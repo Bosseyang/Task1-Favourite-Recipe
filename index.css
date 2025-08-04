@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(255, 245, 216);
+  margin: 0;
+}
+
+header {
+  text-align: center;
+  padding-inline: 20px;
+  padding-block: 10px;
+  background-color: bisque;
+  margin: 0;
+}
+
+main {
+  width: 800px;
+  display: block;
+  margin: 32px auto;
+  padding: 20px;
+}
+
+img {
+  display: block;
+  width: 400px;
+  margin: 0 auto;
+}
+
+section {
+  width: 750px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  margin: 12px auto;
+}
+
+.ingredientsContainer {
+  width: 750px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  margin: 12px auto;
+}
+
+footer {
+  background-color: bisque;
+  margin: 0;
+  text-align: center;
+  padding: 12px;
+}
