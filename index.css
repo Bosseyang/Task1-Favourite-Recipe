@@ -2,6 +2,11 @@ body {
   background-color: rgb(255, 245, 216);
   margin: 0;
 }
+nav {
+  text-align: center;
+  padding: 12px;
+  background-color: aliceblue;
+}
 
 header {
   text-align: center;
@@ -9,6 +14,15 @@ header {
   padding-block: 10px;
   background-color: bisque;
   margin: 0;
+}
+li {
+  padding: 4px;
+  margin-top: 6px;
+}
+
+figcaption {
+  padding: 2px;
+  margin: 4px;
 }
 
 main {
