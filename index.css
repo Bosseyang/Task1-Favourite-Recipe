@@ -1,6 +1,7 @@
 body {
   background-color: rgb(255, 245, 216);
   margin: 0;
+  height: 100vh;
 }
 nav {
   text-align: center;
