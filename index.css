@@ -38,7 +38,7 @@ main {
 
 img {
   display: block;
-  width: 400px;
+  width: 50%;
   margin: 0 auto;
   border-radius: 12px;
 }
@@ -46,15 +46,15 @@ img {
 section {
   width: 750px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  padding: 10px;
-  margin: 12px auto;
+  padding: 1rem;
+  margin: 1rem auto;
 }
 
 .ingredientsContainer {
   width: 750px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  padding: 10px;
-  margin: 12px auto;
+  padding: 1rem;
+  margin: 1rem auto;
 }
 
 footer {
